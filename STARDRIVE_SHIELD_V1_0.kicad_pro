@@ -939,6 +939,9 @@
       "/Inverter/{PWM}": [
         "DIG_OUT"
       ],
+      "/Morpho Connectors/GPIO_BEMF": [
+        "DIG_OUT"
+      ],
       "/Morpho Connectors/nFAULT": [
         "DIG_IN"
       ],
@@ -1155,6 +1158,11 @@
         "RED",
         "BLUE"
       ],
+      "OP_AMP": [
+        "OP_AMP+",
+        "OP_AMP-",
+        "OP_AMP_OUT"
+      ],
       "PWM": [
         "PWM1",
         "PWM2",
@@ -1224,7 +1232,7 @@
         "uuid": "efb4a1d9-7d03-4f5f-a7c7-22dd63859faa"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR57,#PWR66,#PWR104-105,D15-20",
     "variants": []
   },
   "sheets": [

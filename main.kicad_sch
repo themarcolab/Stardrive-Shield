@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "STARDRIVE SHIELD")
-		(date "2026-07-07")
+		(date "2026-07-10")
 		(rev "1.0")
 		(company "Marco's LAB")
 		(comment 1 "Marco Mascolini")
@@ -226,6 +226,16 @@
 			(type default)
 		)
 		(uuid "bdac0a8c-3757-443d-81f4-a53aa1bbfbc3")
+	)
+	(wire
+		(pts
+			(xy 116.84 113.03) (xy 158.75 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0198a9e-4e1d-4020-86a9-9a705798a00a")
 	)
 	(wire
 		(pts
@@ -526,6 +536,16 @@
 				(justify right)
 			)
 		)
+		(pin "GPIO_BEMF" output
+			(at 116.84 113.03 0)
+			(uuid "2db4dd2d-ba7c-4b8e-a9be-cdbc0859bd33")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa"
@@ -596,6 +616,16 @@
 		(pin "{ADC}" output
 			(at 158.75 110.49 180)
 			(uuid "9daaa1d6-b799-47ab-8ba9-755a40a3a70d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO_BEMF" input
+			(at 158.75 113.03 180)
+			(uuid "c82cd76d-b0a2-447a-95dc-2fbaaea2a452")
 			(effects
 				(font
 					(size 1.27 1.27)

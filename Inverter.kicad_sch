@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "STARDRIVE SHIELD")
-		(date "2026-07-07")
+		(date "2026-07-10")
 		(rev "1.0")
 		(company "Marco's LAB")
 		(comment 1 "Marco Mascolini")
@@ -1913,6 +1913,12 @@
 		(uuid "8ec19f1a-7628-481f-b157-d446624d4b90")
 	)
 	(junction
+		(at 181.61 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "94a4b4f4-96c1-42b5-99b1-57b2af9dc150")
+	)
+	(junction
 		(at 133.35 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1947,6 +1953,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d0f9fec1-bee3-45f4-814f-dd69c6517147")
+	)
+	(junction
+		(at 181.61 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d38d248c-47e1-4034-8b36-3501f01cfe87")
 	)
 	(junction
 		(at 106.68 74.93)
@@ -2276,7 +2288,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 114.3) (xy 166.37 114.3)
+			(xy 130.81 114.3) (xy 161.29 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2336,6 +2348,26 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 130.81) (xy 181.61 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34250b8b-ee14-45d2-aa96-eeef30aa6fc6")
+	)
+	(wire
+		(pts
+			(xy 181.61 102.87) (xy 181.61 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37a578b0-3019-491b-a2fb-770d21bf93ab")
+	)
+	(wire
+		(pts
 			(xy 134.62 109.22) (xy 130.81 109.22)
 		)
 		(stroke
@@ -2346,7 +2378,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 130.81) (xy 166.37 130.81)
+			(xy 130.81 130.81) (xy 161.29 130.81)
 		)
 		(stroke
 			(width 0)
@@ -2393,6 +2425,16 @@
 			(type default)
 		)
 		(uuid "466174db-2079-4714-b8da-e722bd6d22d1")
+	)
+	(wire
+		(pts
+			(xy 179.07 102.87) (xy 181.61 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "466323d8-0d56-4150-9e1f-a709f41a2795")
 	)
 	(wire
 		(pts
@@ -2446,7 +2488,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 125.73) (xy 166.37 125.73)
+			(xy 142.24 125.73) (xy 161.29 125.73)
 		)
 		(stroke
 			(width 0)
@@ -2496,7 +2538,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 100.33) (xy 166.37 100.33)
+			(xy 130.81 100.33) (xy 161.29 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2516,6 +2558,16 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 130.81) (xy 179.07 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65550b76-7855-4b51-b4b9-7253238a95f8")
+	)
+	(wire
+		(pts
 			(xy 223.52 114.3) (xy 231.14 114.3)
 		)
 		(stroke
@@ -2526,7 +2578,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 97.79) (xy 166.37 97.79)
+			(xy 142.24 97.79) (xy 161.29 97.79)
 		)
 		(stroke
 			(width 0)
@@ -2543,6 +2595,16 @@
 			(type default)
 		)
 		(uuid "6e136b77-4b31-4d3a-8b32-e964d8ffc7ae")
+	)
+	(wire
+		(pts
+			(xy 181.61 142.24) (xy 215.9 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fe2d52a-d75d-424d-a8b8-2cfb007b9828")
 	)
 	(bus
 		(pts
@@ -2666,6 +2728,16 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 116.84) (xy 179.07 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92ed7a31-e3c9-4455-90c8-b198fee16d7a")
+	)
+	(wire
+		(pts
 			(xy 223.52 114.3) (xy 223.52 118.11)
 		)
 		(stroke
@@ -2673,6 +2745,16 @@
 			(type default)
 		)
 		(uuid "92eff22b-5dbe-43e5-9409-4eb69b1f1a55")
+	)
+	(wire
+		(pts
+			(xy 181.61 116.84) (xy 181.61 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "936c72d5-1a85-4a70-8aa9-e84fd893759c")
 	)
 	(wire
 		(pts
@@ -2696,7 +2778,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 116.84) (xy 166.37 116.84)
+			(xy 130.81 116.84) (xy 161.29 116.84)
 		)
 		(stroke
 			(width 0)
@@ -2726,7 +2808,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 102.87) (xy 166.37 102.87)
+			(xy 130.81 102.87) (xy 161.29 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2786,7 +2868,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 128.27) (xy 166.37 128.27)
+			(xy 130.81 128.27) (xy 161.29 128.27)
 		)
 		(stroke
 			(width 0)
@@ -2856,7 +2938,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 111.76) (xy 166.37 111.76)
+			(xy 142.24 111.76) (xy 161.29 111.76)
 		)
 		(stroke
 			(width 0)
@@ -3426,6 +3508,17 @@
 			(justify right)
 		)
 		(uuid "8ed40213-b333-475d-a31f-cb949f1b3514")
+	)
+	(hierarchical_label "GPIO_BEMF"
+		(shape input)
+		(at 215.9 142.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "96d72c36-835e-4ea8-a038-36c912362ac7")
 	)
 	(rule_area
 		(exclude_from_sim no)
@@ -7698,8 +7791,8 @@
 		)
 	)
 	(sheet
-		(at 166.37 109.22)
-		(size 12.7 10.16)
+		(at 161.29 109.22)
+		(size 17.78 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7714,7 +7807,7 @@
 		)
 		(uuid "647543f0-0dfd-48f2-a8ad-63d354528483")
 		(property "Sheetname" "Half-Bridge2"
-			(at 166.37 108.5084 0)
+			(at 161.29 108.5084 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7725,7 +7818,7 @@
 			)
 		)
 		(property "Sheetfile" "Half-Bridge.kicad_sch"
-			(at 166.37 119.9646 0)
+			(at 161.29 119.9646 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7747,7 +7840,7 @@
 			)
 		)
 		(pin "PH" output
-			(at 166.37 111.76 180)
+			(at 161.29 111.76 180)
 			(uuid "e0247eab-ff75-4279-b449-223bbc297674")
 			(effects
 				(font
@@ -7757,7 +7850,7 @@
 			)
 		)
 		(pin "GL" input
-			(at 166.37 116.84 180)
+			(at 161.29 116.84 180)
 			(uuid "0d035f56-c62f-4d32-8e0d-e7fb8c679220")
 			(effects
 				(font
@@ -7767,7 +7860,7 @@
 			)
 		)
 		(pin "GH" input
-			(at 166.37 114.3 180)
+			(at 161.29 114.3 180)
 			(uuid "72c94bc9-044d-4d39-ae3c-22c6ebe4e749")
 			(effects
 				(font
@@ -7786,6 +7879,16 @@
 				(justify right)
 			)
 		)
+		(pin "GPIO_BEMF" input
+			(at 179.07 116.84 0)
+			(uuid "b08c04cd-369c-4891-a5db-f8972416a310")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466"
@@ -7795,8 +7898,8 @@
 		)
 	)
 	(sheet
-		(at 166.37 123.19)
-		(size 12.7 10.16)
+		(at 161.29 123.19)
+		(size 17.78 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7811,7 +7914,7 @@
 		)
 		(uuid "969648ec-d528-42ac-989f-ad66810329bd")
 		(property "Sheetname" "Half-Bridge3"
-			(at 166.37 122.4784 0)
+			(at 161.29 122.4784 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7822,7 +7925,7 @@
 			)
 		)
 		(property "Sheetfile" "Half-Bridge.kicad_sch"
-			(at 166.37 133.9346 0)
+			(at 161.29 133.9346 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7844,7 +7947,7 @@
 			)
 		)
 		(pin "PH" output
-			(at 166.37 125.73 180)
+			(at 161.29 125.73 180)
 			(uuid "19154100-c929-4728-977b-517d645c1e14")
 			(effects
 				(font
@@ -7854,7 +7957,7 @@
 			)
 		)
 		(pin "GL" input
-			(at 166.37 130.81 180)
+			(at 161.29 130.81 180)
 			(uuid "0242e3b7-49b0-4c4c-aaf9-e721d32da197")
 			(effects
 				(font
@@ -7864,7 +7967,7 @@
 			)
 		)
 		(pin "GH" input
-			(at 166.37 128.27 180)
+			(at 161.29 128.27 180)
 			(uuid "3089db67-9fa3-4775-bdce-156b92041e60")
 			(effects
 				(font
@@ -7883,6 +7986,16 @@
 				(justify right)
 			)
 		)
+		(pin "GPIO_BEMF" input
+			(at 179.07 130.81 0)
+			(uuid "25bc22ac-c5e2-444a-a046-5a1bcd2a7948")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466"
@@ -7892,8 +8005,8 @@
 		)
 	)
 	(sheet
-		(at 166.37 95.25)
-		(size 12.7 10.16)
+		(at 161.29 95.25)
+		(size 17.78 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7908,7 +8021,7 @@
 		)
 		(uuid "a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6")
 		(property "Sheetname" "Half-Bridge1"
-			(at 166.37 94.5384 0)
+			(at 161.29 94.5384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7919,7 +8032,7 @@
 			)
 		)
 		(property "Sheetfile" "Half-Bridge.kicad_sch"
-			(at 166.37 105.9946 0)
+			(at 161.29 105.9946 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7941,7 +8054,7 @@
 			)
 		)
 		(pin "PH" output
-			(at 166.37 97.79 180)
+			(at 161.29 97.79 180)
 			(uuid "49c80a19-4f9c-44fb-b6ae-c31f8f601622")
 			(effects
 				(font
@@ -7951,7 +8064,7 @@
 			)
 		)
 		(pin "GL" input
-			(at 166.37 102.87 180)
+			(at 161.29 102.87 180)
 			(uuid "19a7f8b4-ea61-47c4-9ea0-bea2555aed53")
 			(effects
 				(font
@@ -7961,7 +8074,7 @@
 			)
 		)
 		(pin "GH" input
-			(at 166.37 100.33 180)
+			(at 161.29 100.33 180)
 			(uuid "0931f860-84e5-4938-8cff-0d8d17e551d7")
 			(effects
 				(font
@@ -7973,6 +8086,16 @@
 		(pin "PH_SNS" output
 			(at 179.07 97.79 0)
 			(uuid "653e3023-b98a-4353-92d1-dd21b5a147f0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO_BEMF" input
+			(at 179.07 102.87 0)
+			(uuid "3476a5dd-efdf-46e6-9229-12cd1a91a66e")
 			(effects
 				(font
 					(size 1.27 1.27)

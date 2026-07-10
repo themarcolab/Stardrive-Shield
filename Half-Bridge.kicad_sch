@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "STARDRIVE SHIELD")
-		(date "2026-07-07")
+		(date "2026-07-10")
 		(rev "1.0")
 		(company "Marco's LAB")
 		(comment 1 "Marco Mascolini")
@@ -1899,12 +1899,6 @@
 		(uuid "00fa3d6f-ca38-4fd4-95d2-85d2fbfb0ecb")
 	)
 	(junction
-		(at 93.98 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0be4bb67-ee84-4fc7-94ff-ba016b5eeb54")
-	)
-	(junction
 		(at 195.58 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1959,6 +1953,12 @@
 		(uuid "6955be10-83eb-4890-b7d7-b946f8a81d9b")
 	)
 	(junction
+		(at 80.01 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7207c8e8-5a71-44b8-b97f-e3a0e53883c5")
+	)
+	(junction
 		(at 172.72 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1993,6 +1993,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "85aa075b-85ae-4544-9f78-db652e46da6e")
+	)
+	(junction
+		(at 93.98 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "87ce6879-e6ec-49b9-9513-b2213c709cc1")
 	)
 	(junction
 		(at 161.29 67.31)
@@ -2132,6 +2138,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 132.08) (xy 93.98 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16e85aa2-055b-49ca-9682-32bbd0e8fb4c")
+	)
+	(wire
+		(pts
 			(xy 130.81 105.41) (xy 130.81 100.33)
 		)
 		(stroke
@@ -2169,6 +2185,16 @@
 			(type default)
 		)
 		(uuid "1cdbee26-0976-45bb-8136-f78b98201e89")
+	)
+	(wire
+		(pts
+			(xy 80.01 96.52) (xy 80.01 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d4a7e26-f082-40c9-b70c-e8d8dd6ea17a")
 	)
 	(wire
 		(pts
@@ -2232,6 +2258,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 116.84) (xy 93.98 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c76f221-06f2-4e14-8220-59b0e88a1a53")
+	)
+	(wire
+		(pts
 			(xy 111.76 86.36) (xy 111.76 88.9)
 		)
 		(stroke
@@ -2272,7 +2308,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 111.76) (xy 71.12 109.22)
+			(xy 71.12 109.22) (xy 71.12 124.46)
 		)
 		(stroke
 			(width 0)
@@ -2402,6 +2438,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 139.7) (xy 93.98 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59e17dd8-9b64-4e52-a605-ab538b891513")
+	)
+	(wire
+		(pts
 			(xy 71.12 129.54) (xy 71.12 132.08)
 		)
 		(stroke
@@ -2519,16 +2565,6 @@
 			(type default)
 		)
 		(uuid "8094b947-ee0e-442f-a514-b6c2616756ab")
-	)
-	(wire
-		(pts
-			(xy 71.12 121.92) (xy 71.12 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83da8cd1-04e0-430f-a05a-c4741591421a")
 	)
 	(wire
 		(pts
@@ -2672,7 +2708,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 109.22) (xy 93.98 109.22)
+			(xy 71.12 109.22) (xy 80.01 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2702,16 +2738,6 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 116.84) (xy 93.98 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a3c7424f-1103-4136-8bfb-da31027d6a5c")
-	)
-	(wire
-		(pts
 			(xy 130.81 88.9) (xy 140.97 88.9)
 		)
 		(stroke
@@ -2719,16 +2745,6 @@
 			(type default)
 		)
 		(uuid "a438d75f-2b19-40f0-95f8-d536e6606838")
-	)
-	(wire
-		(pts
-			(xy 93.98 132.08) (xy 93.98 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a4c26b55-7264-49e5-a2d5-3314844b752a")
 	)
 	(wire
 		(pts
@@ -2799,6 +2815,16 @@
 			(type default)
 		)
 		(uuid "b788cfa0-299e-4928-a0d2-5c4585721740")
+	)
+	(wire
+		(pts
+			(xy 80.01 109.22) (xy 93.98 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb67296a-c5f1-4699-b7ba-3fc07a63cab0")
 	)
 	(wire
 		(pts
@@ -2982,6 +3008,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 128.27) (xy 93.98 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f55f583e-4d5f-4588-b517-4f90d92dd94a")
+	)
+	(wire
+		(pts
 			(xy 71.12 132.08) (xy 93.98 132.08)
 		)
 		(stroke
@@ -3009,6 +3045,16 @@
 			(type default)
 		)
 		(uuid "fa246fcb-7445-4a82-9185-9c817bf0c3c9")
+	)
+	(wire
+		(pts
+			(xy 80.01 106.68) (xy 80.01 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff5f06b9-dd05-4b93-bda6-b512e02ab940")
 	)
 	(label "R_SNS+"
 		(at 146.05 119.38 0)
@@ -3087,6 +3133,17 @@
 			(justify right)
 		)
 		(uuid "ae22a41e-933e-46d2-81da-75f6d4e834b7")
+	)
+	(hierarchical_label "GPIO_BEMF"
+		(shape input)
+		(at 76.2 139.7 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d5bfa984-7496-44cd-ab17-26b02520e4db")
 	)
 	(rule_area
 		(exclude_from_sim no)
@@ -3206,91 +3263,6 @@
 				(font
 					(size 1.27 1.27)
 					(italic yes)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 93.98 133.35 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "001b7bcb-8f3c-476c-8e67-e0a521e12d53")
-		(property "Reference" "#PWR048"
-			(at 93.98 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 93.98 137.922 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 93.98 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 93.98 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 93.98 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "65606a9c-c1ba-484a-95f0-d5f7e2bc6563")
-		)
-		(instances
-			(project "STARDRIVE_SHIELD_V1_0"
-				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "#PWR057")
-					(unit 1)
-				)
-				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "#PWR066")
-					(unit 1)
-				)
-				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "#PWR048")
-					(unit 1)
 				)
 			)
 		)
@@ -4963,6 +4935,137 @@
 		)
 	)
 	(symbol
+		(lib_id "00_mySymbols:BAT43WS")
+		(at 80.01 102.87 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "498659c2-c635-40af-b70c-a3d8f58aa002")
+		(property "Reference" "D15"
+			(at 73.66 102.87 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAT43WS"
+			(at 76.2 102.87 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323F"
+			(at 80.01 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/86464/bat42ws_bat43ws.pdf"
+			(at 80.01 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 80.01 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BAT43WS"
+			(at 80.01 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Shenzhen Slkormicro Semico."
+			(at 80.01 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 80.01 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 80.01 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a52cbf1c-a5cb-44d1-977c-f0017fa9fdde")
+		)
+		(pin "2"
+			(uuid "8ff96a27-8ee1-438a-9539-8536e4280075")
+		)
+		(instances
+			(project "STARDRIVE_SHIELD_V1_0"
+				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
+					(reference "D16")
+					(unit 1)
+				)
+				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
+					(reference "D17")
+					(unit 1)
+				)
+				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
+					(reference "D15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 195.58 62.23 0)
 		(unit 1)
@@ -6032,138 +6135,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 71.12 116.84 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "8e03bb06-b128-429c-bf05-fad28286182d")
-		(property "Reference" "JP2"
-			(at 73.914 116.84 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 76.454 118.11 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 71.12 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 78.74 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 76.2 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
-			(at 71.12 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 71.12 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S3.3" ""
-			(at 71.12 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S5.1" ""
-			(at 71.12 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6e1d0cf3-0a25-479d-8df2-bcaf1e46937e")
-		)
-		(pin "2"
-			(uuid "b2a39569-b680-4d5d-a896-17e4ff39395a")
-		)
-		(instances
-			(project "STARDRIVE_SHIELD_V1_0"
-				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "JP4")
-					(unit 1)
-				)
-				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "JP6")
-					(unit 1)
-				)
-				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "JP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 187.96 121.92 270)
 		(unit 1)
@@ -6592,6 +6563,137 @@
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
 					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "00_mySymbols:BAT43WS")
+		(at 93.98 124.46 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9a0c05aa-cfba-494f-8e3f-a3a1f63991f3")
+		(property "Reference" "D18"
+			(at 100.33 124.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAT43WS"
+			(at 97.79 124.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323F"
+			(at 93.98 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/86464/bat42ws_bat43ws.pdf"
+			(at 93.98 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 93.98 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BAT43WS"
+			(at 93.98 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Shenzhen Slkormicro Semico."
+			(at 93.98 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 93.98 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 93.98 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3309a62e-eed8-44b8-8081-47da30bd576e")
+		)
+		(pin "2"
+			(uuid "e6c4d3ad-b23a-42b9-bd44-46b796fc58d5")
+		)
+		(instances
+			(project "STARDRIVE_SHIELD_V1_0"
+				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
+					(reference "D19")
+					(unit 1)
+				)
+				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
+					(reference "D20")
+					(unit 1)
+				)
+				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -7211,6 +7313,91 @@
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
 					(reference "R26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 80.01 96.52 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c3a7babb-46a9-4055-8469-e45f5683d0a1")
+		(property "Reference" "#PWR066"
+			(at 80.01 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 80.518 92.71 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 80.01 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 80.01 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f39bc9bf-6885-40f0-89e0-2e22c4c18e82")
+		)
+		(instances
+			(project "STARDRIVE_SHIELD_V1_0"
+				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
+					(reference "#PWR0104")
+					(unit 1)
+				)
+				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
+					(reference "#PWR0105")
+					(unit 1)
+				)
+				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
