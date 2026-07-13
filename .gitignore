@@ -37,6 +37,7 @@ images/
 *.raw
 .svg2shenzhen-cache
 .history
+.history_trim
 production
 
 # OS files
