@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "STARDRIVE SHIELD")
-		(date "2026-07-10")
+		(date "2026-07-16")
 		(rev "1.0")
 		(company "Marco's LAB")
 		(comment 1 "Marco Mascolini")
@@ -3193,12 +3193,6 @@
 		(uuid "0a8c5228-90d9-4413-ab8d-a5480a3673e0")
 	)
 	(junction
-		(at 55.88 170.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2b915986-1582-45c4-922c-59389977cbc7")
-	)
-	(junction
 		(at 189.23 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3263,6 +3257,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "88bdf749-ed24-4645-b374-42deb0a5790c")
+	)
+	(junction
+		(at 55.88 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "90a7f5c3-3e53-428e-8148-4c5cee919651")
 	)
 	(junction
 		(at 156.21 133.35)
@@ -3600,7 +3600,7 @@
 	)
 	(polyline
 		(pts
-			(xy 127 69.85) (xy 127 198.12)
+			(xy 127 69.85) (xy 127 197.485)
 		)
 		(stroke
 			(width 0)
@@ -3790,7 +3790,7 @@
 	)
 	(polyline
 		(pts
-			(xy 193.04 69.85) (xy 193.04 176.53)
+			(xy 193.04 69.85) (xy 193.04 172.72)
 		)
 		(stroke
 			(width 0)
@@ -4790,7 +4790,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 170.18) (xy 71.12 170.18)
+			(xy 66.04 170.18) (xy 71.12 170.18)
 		)
 		(stroke
 			(width 0)
@@ -5040,7 +5040,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 170.18) (xy 63.5 170.18)
+			(xy 55.88 170.18) (xy 60.96 170.18)
 		)
 		(stroke
 			(width 0)
@@ -10492,7 +10492,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 66.04 170.18 90)
+		(at 63.5 170.18 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10502,7 +10502,7 @@
 		(dnp no)
 		(uuid "a7a42782-cfe1-48d7-af80-e8c2fbdc8ab1")
 		(property "Reference" "R13"
-			(at 66.04 175.26 90)
+			(at 63.5 175.26 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10512,7 +10512,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 66.04 172.72 90)
+			(at 63.5 172.72 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10522,7 +10522,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 66.04 170.18 0)
+			(at 63.5 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10533,7 +10533,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 170.18 0)
+			(at 63.5 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10544,7 +10544,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 66.04 170.18 0)
+			(at 63.5 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10555,7 +10555,7 @@
 			)
 		)
 		(property "MPN" "CRCW0402100RFKED"
-			(at 66.04 170.18 90)
+			(at 63.5 170.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10566,7 +10566,7 @@
 			)
 		)
 		(property "Manufacturer" "Vishay Dale"
-			(at 66.04 170.18 90)
+			(at 63.5 170.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10577,7 +10577,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 66.04 170.18 90)
+			(at 63.5 170.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10588,7 +10588,7 @@
 			)
 		)
 		(property "KLC_S5.1" ""
-			(at 66.04 170.18 90)
+			(at 63.5 170.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

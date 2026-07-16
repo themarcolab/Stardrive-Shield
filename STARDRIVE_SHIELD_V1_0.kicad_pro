@@ -528,7 +528,7 @@
       {
         "bus_width": 12,
         "line_style": 0,
-        "name": "AN_IN",
+        "name": "AN",
         "pcb_color": "rgb(194, 0, 194)",
         "priority": 7,
         "schematic_color": "rgb(194, 0, 194)",
@@ -541,27 +541,17 @@
         "name": "CAN",
         "pcb_color": "rgb(0, 194, 194)",
         "priority": 6,
-        "schematic_color": "rgb(0, 194, 194)",
+        "schematic_color": "rgb(0, 132, 132)",
         "tuning_profile": "",
         "wire_width": 6
       },
       {
         "bus_width": 12,
         "line_style": 0,
-        "name": "DIG_IN",
+        "name": "DIG",
         "pcb_color": "rgb(0, 0, 194)",
         "priority": 3,
-        "schematic_color": "rgb(255, 153, 0)",
-        "tuning_profile": "",
-        "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "line_style": 0,
-        "name": "DIG_OUT",
-        "pcb_color": "rgb(221, 133, 0)",
-        "priority": 8,
-        "schematic_color": "rgb(0, 0, 255)",
+        "schematic_color": "rgb(221, 133, 0)",
         "tuning_profile": "",
         "wire_width": 6
       },
@@ -581,7 +571,7 @@
         "name": "I2C",
         "pcb_color": "rgb(0, 194, 194)",
         "priority": 4,
-        "schematic_color": "rgb(0, 194, 194)",
+        "schematic_color": "rgb(0, 132, 132)",
         "tuning_profile": "",
         "wire_width": 6
       },
@@ -611,7 +601,7 @@
         "name": "SPI",
         "pcb_color": "rgb(0, 194, 194)",
         "priority": 5,
-        "schematic_color": "rgb(0, 194, 194)",
+        "schematic_color": "rgb(0, 132, 132)",
         "tuning_profile": "",
         "wire_width": 6
       }
@@ -769,7 +759,7 @@
         "DIG_IN"
       ],
       "/Interfaces/BLUE": [
-        "DIG_OUT"
+        "DIG"
       ],
       "/Interfaces/CAN+": [
         "CAN"
@@ -778,16 +768,16 @@
         "CAN"
       ],
       "/Interfaces/GREEN": [
-        "DIG_OUT"
+        "DIG"
       ],
       "/Interfaces/HALL1": [
-        "DIG_IN"
+        "DIG"
       ],
       "/Interfaces/HALL2": [
-        "DIG_IN"
+        "DIG"
       ],
       "/Interfaces/HALL3": [
-        "DIG_IN"
+        "DIG"
       ],
       "/Interfaces/MISO": [
         "SPI"
@@ -796,10 +786,10 @@
         "SPI"
       ],
       "/Interfaces/ORANGE": [
-        "DIG_OUT"
+        "DIG"
       ],
       "/Interfaces/RED": [
-        "DIG_OUT"
+        "DIG"
       ],
       "/Interfaces/RX": [
         "CAN"
@@ -823,13 +813,13 @@
         "CAN"
       ],
       "/Interfaces/{HALL}": [
-        "DIG_IN"
+        "DIG"
       ],
       "/Interfaces/{I2C}": [
         "I2C"
       ],
       "/Interfaces/{LEDS}": [
-        "DIG_OUT"
+        "DIG"
       ],
       "/Interfaces/{SPI}": [
         "SPI"
@@ -838,13 +828,13 @@
         "AN_IN"
       ],
       "/Inverter/CURR1": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/CURR2": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/CURR3": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/DT{slash}MODE": [
         "AN_IN"
@@ -853,10 +843,10 @@
         "PWR_HV"
       ],
       "/Inverter/Half-Bridge1/R_SNS+": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/Half-Bridge1/R_SNS-": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/Half-Bridge1/R_SNS_-": [
         "AN_IN"
@@ -865,10 +855,10 @@
         "PWR_HV"
       ],
       "/Inverter/Half-Bridge2/R_SNS+": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/Half-Bridge2/R_SNS-": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/Half-Bridge2/R_SNS_-": [
         "AN_IN"
@@ -877,73 +867,76 @@
         "PWR_HV"
       ],
       "/Inverter/Half-Bridge3/R_SNS+": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/Half-Bridge3/R_SNS-": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/Half-Bridge3/R_SNS_-": [
         "AN_IN"
       ],
       "/Inverter/MOT_TEMP": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/PWM1": [
-        "DIG_OUT"
+        "DIG"
       ],
       "/Inverter/PWM2": [
-        "DIG_OUT"
+        "DIG"
       ],
       "/Inverter/PWM3": [
-        "DIG_OUT"
+        "DIG"
       ],
       "/Inverter/PWMN1": [
-        "DIG_OUT"
+        "DIG"
       ],
       "/Inverter/PWMN2": [
-        "DIG_OUT"
+        "DIG"
       ],
       "/Inverter/PWMN3": [
-        "DIG_OUT"
+        "DIG"
       ],
       "/Inverter/SCREF": [
         "AN_IN"
       ],
       "/Inverter/TEMP1": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/TEMP2": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/TEMP3": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/THROTTLE": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/VOLTAGE1": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/VOLTAGE2": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/VOLTAGE3": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/V_BUS": [
         "AN_IN"
       ],
+      "/Inverter/V_BUS_SNS": [
+        "AN"
+      ],
       "/Inverter/{ADC}": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/{PWM}": [
-        "DIG_OUT"
+        "DIG"
       ],
       "/Morpho Connectors/GPIO_BEMF": [
-        "DIG_OUT"
+        "DIG"
       ],
       "/Morpho Connectors/nFAULT": [
-        "DIG_IN"
+        "DIG"
       ],
       "GND": [
         "GND"
@@ -966,7 +959,13 @@
       "Net-(R45-Pad1)": [
         "PWR_HV"
       ],
+      "Net-(U12-EN{slash}UVLO)": [
+        "AN"
+      ],
       "Net-(U12-LX)": [
+        "PWR_LV"
+      ],
+      "Net-(U12-VCC)": [
         "PWR_LV"
       ],
       "Net-(U13-LX)": [
@@ -1135,7 +1134,7 @@
         "VOLTAGE1",
         "VOLTAGE2",
         "VOLTAGE3",
-        "V_BUS"
+        "V_BUS_SNS"
       ],
       "CAN": [
         "TX",
@@ -1218,7 +1217,7 @@
     "top_level_sheets": [
       {
         "filename": "STARDRIVE_SHIELD_V1_0.kicad_sch",
-        "name": "STARDRIVE_SHIELD_V1_0",
+        "name": "Front",
         "uuid": "ed5b7a99-8828-4e01-b4a4-aef2c8f939f5"
       },
       {
@@ -1228,17 +1227,17 @@
       },
       {
         "filename": "main.kicad_sch",
-        "name": "Main",
+        "name": "Architecture",
         "uuid": "efb4a1d9-7d03-4f5f-a7c7-22dd63859faa"
       }
     ],
-    "used_designators": "FID1-3",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
       "ed5b7a99-8828-4e01-b4a4-aef2c8f939f5",
-      "STARDRIVE_SHIELD_V1_0"
+      "Front"
     ],
     [
       "76e456cd-825d-4319-9243-ac4be18d0184",
@@ -1246,7 +1245,7 @@
     ],
     [
       "efb4a1d9-7d03-4f5f-a7c7-22dd63859faa",
-      "Main"
+      "Architecture"
     ],
     [
       "23e3ba24-591d-4fb0-8e80-3ebe5e1c1ea4",
