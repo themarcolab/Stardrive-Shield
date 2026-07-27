@@ -984,7 +984,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "outputs/PDFs/assembly/",
+      "plot": "outputs/gerbers/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -1231,7 +1231,7 @@
         "uuid": "efb4a1d9-7d03-4f5f-a7c7-22dd63859faa"
       }
     ],
-    "used_designators": "",
+    "used_designators": "BRD1,J6",
     "variants": []
   },
   "sheets": [
