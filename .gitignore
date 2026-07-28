@@ -15,7 +15,6 @@ _autosave-*
 fp-info-cache
 /build
 *-backups/
-images/
 
 # Netlist files (exported from Eeschema)
 *.net
