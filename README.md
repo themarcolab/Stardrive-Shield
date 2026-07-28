@@ -1,7 +1,7 @@
 # STARDRIVE SHIELD
 
 ## Introduction
-This project has born because I have been trying to develop an ESC (hardware and firmware) on my own. 
+This project has been born because I have been trying to develop an ESC (hardware and firmware) on my own. 
 While the most challenging part has been the firmware (being myself a hardware guy), the most frustrating part has been not finding a flexible hardware platform to develop upon.
 
 So I designed one: **STARDRIVE SHIELD**
@@ -15,6 +15,8 @@ or configured through the hardware interface (e.g. overcurrent protection, 6 or 
 ## Features
 The **STARDRIVE SHIELD** is built around the [STDRIVE101](https://www.st.com/en/power-management/stdrive101.html)  gate driver and implementing [BSZ099N06LS5](https://www.infineon.com/part/BSZ099N06LS5) MOSFETs.
 It presents 3 low sides shunt resistors and 3 relative [INA240A2](https://www.ti.com/lit/ds/symlink/ina240.pdf?ts=1785176124311&ref_url=https%253A%252F%252Fwww.google.com%252F) current sense amplifiers.
+
+With **STARDRIVE SHIELD** you can implement from 6 step to FOC motor control algorithms.
 
 ### Electrical Characteristics
 + Inprut Voltage V<sub>in</sub> = 12 - 48 V
