@@ -1,5 +1,7 @@
 # STARDRIVE SHIELD
 
+<img src="images/STARDRIVE_SHIELD_V1_0_assembly.png" alt="Screenshot" width="500"/>
+
 ## Introduction
 This project has been born because I have been trying to develop an ESC (hardware and firmware) on my own. 
 While the most challenging part has been the firmware (being myself a hardware guy), the most frustrating part has been not finding a flexible hardware platform to develop upon.
@@ -39,6 +41,10 @@ I designed it to be compatible with Nucleo-G474 and Nucleo-F446. Compatibility w
 + 1 FAULT LED (RED)
 + CAN RX and TX LEDs
 + Power Good LEDs
+
+<img src="images/STARDRIVE_SHIELD_V1_0_Top.png" alt="Screenshot" width="500"/>
+<img src="images/STARDRIVE_SHIELD_V1_0_Bottom.png" alt="Screenshot" width="500"/>
+
 
 ## Inspirations
 For this project I took inspiration from the [VESC Project](https://vesc-project.com/) and [EVALSTDRIVE101](https://www.st.com/en/evaluation-tools/evalstdrive101.html#cad-resources)
