@@ -14,7 +14,7 @@ This is a project with the goal of creating a NUCLEO-64 compatible shield to be 
 
 ## Features
 The **STARDRIVE SHIELD** is built around the [STDRIVE101](https://www.st.com/en/power-management/stdrive101.html)  gate driver and implementing [BSZ099N06LS5](https://www.infineon.com/part/BSZ099N06LS5) MOSFETs.
-It presents 3 low sides shunt resistors and 3 relative [INA240A2](https://www.ti.com/lit/ds/symlink/ina240.pdf?ts=1785176124311&ref_url=https%253A%252F%252Fwww.google.com%252F) current sense amplifiers.
+It presents 3 in-line shunt resistors and 3 relative [INA240A2](https://www.ti.com/lit/ds/symlink/ina240.pdf?ts=1785176124311&ref_url=https%253A%252F%252Fwww.google.com%252F) current sense amplifiers.
 
 With **STARDRIVE SHIELD** you can implement from 6 step to FOC motor control algorithms.
 
@@ -30,6 +30,7 @@ I designed it to be compatible with Nucleo-G474 and Nucleo-F446. Compatibility w
   + Overcurrent protection can be enabled or disabled through the DIP switch.
   + V<sub>ds</sub> protection configurable with resistor divider (disabled by default)
 + [BSZ099N06LS5](https://www.infineon.com/part/BSZ099N06LS5) MOSFETs
++ 3 in-line shunt resistors (1mOhm) with relative 3 INA240A2 Current Sensors
 + JST connectors to implement:
   + I2C (e.g. for magnetic encoder such as [AS5046](https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1138/AS5046.pdf))
   + SPI (e.g. for magnetic encoder such as [AS5047P](https://look.ams-osram.com/m/d05ee39221f9857/original/AS5047P-DS000324.pdf))
