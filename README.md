@@ -1,5 +1,7 @@
 # STARDRIVE SHIELD
 
+<img src="images/STARDRIVE_SHIELD_V1_0_assembly.png" alt="Screenshot" width="500"/>
+
 ## Introduction
 This project has been born because I have been trying to develop an ESC (hardware and firmware) on my own. 
 While the most challenging part has been the firmware (being myself a hardware guy), the most frustrating part has been not finding a flexible hardware platform to develop upon.
@@ -7,9 +9,7 @@ While the most challenging part has been the firmware (being myself a hardware g
 So I designed one: **STARDRIVE SHIELD**
 
 ## Description 
-This is a project with the goal of creating a NUCLEO-64 compatible shield to be used as a flexible platform to develop and test ESC firmware.
-To do so, I included as many features as possible. These features are not mandatory, but they can be implemented (or not) in the firmware (e.g. SPI, I2C, CAN, HALL)
-or configured through the hardware interface (e.g. overcurrent protection, 6 or 3 PWM). In this way, the **STARDRIVE SHIELD** grants flexibility to the developer and it is adapt to various needs.
+This is a project with the goal of creating a NUCLEO-64 compatible shield to be used as a flexible platform to develop and test ESC firmware, but also for educational purposes. To do so, I included as many features as possible. These features are not mandatory, but they can be implemented (or not) in the firmware (e.g. SPI, I2C, CAN, HALL) or configured through the hardware interface (e.g. overcurrent protection, 6 or 3 PWM). In this way, the STARDRIVE SHIELD grants flexibility to the developer and it is adapt to various needs.
 
 
 ## Features
@@ -17,6 +17,8 @@ The **STARDRIVE SHIELD** is built around the [STDRIVE101](https://www.st.com/en/
 It presents 3 low sides shunt resistors and 3 relative [INA240A2](https://www.ti.com/lit/ds/symlink/ina240.pdf?ts=1785176124311&ref_url=https%253A%252F%252Fwww.google.com%252F) current sense amplifiers.
 
 With **STARDRIVE SHIELD** you can implement from 6 step to FOC motor control algorithms.
+
+I designed it to be compatible with Nucleo-G474 and Nucleo-F446. Compatibility with other boards has to be verified. 
 
 ### Electrical Characteristics
 + Inprut Voltage V<sub>in</sub> = 12 - 48 V
@@ -39,6 +41,10 @@ With **STARDRIVE SHIELD** you can implement from 6 step to FOC motor control alg
 + 1 FAULT LED (RED)
 + CAN RX and TX LEDs
 + Power Good LEDs
+
+<img src="images/STARDRIVE_SHIELD_V1_0_Top.png" alt="Screenshot" width="500"/>
+<img src="images/STARDRIVE_SHIELD_V1_0_Bottom.png" alt="Screenshot" width="500"/>
+
 
 ## Inspirations
 For this project I took inspiration from the [VESC Project](https://vesc-project.com/) and [EVALSTDRIVE101](https://www.st.com/en/evaluation-tools/evalstdrive101.html#cad-resources)
