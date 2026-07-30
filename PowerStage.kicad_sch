@@ -2463,7 +2463,7 @@
 		(uuid "6bf0ba9c-7986-443a-8f8d-e275b0b5d69a")
 	)
 	(junction
-		(at 241.3 50.8)
+		(at 236.22 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "00c3fae1-81a5-4e74-adf9-fdc05d37025f")
@@ -2493,7 +2493,7 @@
 		(uuid "26639d2e-5afc-406b-88a5-5a33e6da9867")
 	)
 	(junction
-		(at 264.16 50.8)
+		(at 259.08 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "31856694-b843-42e0-ab64-1ff32e2f543a")
@@ -2505,7 +2505,7 @@
 		(uuid "4158ef94-4356-4a18-a755-e8d5b427c65d")
 	)
 	(junction
-		(at 228.6 53.34)
+		(at 223.52 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "462535c2-dba9-40b3-b3ab-09daee245a44")
@@ -2517,13 +2517,13 @@
 		(uuid "47eba689-a5bd-475e-a220-098aca451e45")
 	)
 	(junction
-		(at 228.6 50.8)
+		(at 223.52 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "51ec443b-4426-4670-8c38-b125af9c5546")
 	)
 	(junction
-		(at 228.6 55.88)
+		(at 223.52 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "55196228-bd19-4df7-8c77-d4ab4a6c7ce1")
@@ -2547,13 +2547,13 @@
 		(uuid "772b3906-17b4-4668-86c8-df369d11652b")
 	)
 	(junction
-		(at 177.8 58.42)
+		(at 172.72 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7779ef42-e7ed-469f-b4a9-72f3f4cb65ce")
 	)
 	(junction
-		(at 252.73 50.8)
+		(at 247.65 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "794919f7-0bc5-48a8-918e-b052e76ae52b")
@@ -2577,13 +2577,13 @@
 		(uuid "b933251b-1fdf-4211-8900-c2fd6418865f")
 	)
 	(junction
-		(at 154.94 48.26)
+		(at 149.86 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c7455666-3974-4bff-8dec-d3abf5169d0b")
 	)
 	(junction
-		(at 154.94 57.15)
+		(at 149.86 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cd50bda0-1a62-418d-99ac-67309f803a8d")
@@ -2601,7 +2601,7 @@
 		(uuid "f3ba5e97-0177-4567-a69e-81544e9a1ef3")
 	)
 	(no_connect
-		(at 213.36 48.26)
+		(at 208.28 48.26)
 		(uuid "a3af00b5-a620-48fb-9ad6-0bf0041a7a4f")
 	)
 	(wire
@@ -2636,7 +2636,7 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 50.8) (xy 264.16 50.8)
+			(xy 270.51 50.8) (xy 259.08 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2666,7 +2666,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 50.8) (xy 241.3 50.8)
+			(xy 247.65 50.8) (xy 236.22 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2686,7 +2686,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 50.8) (xy 228.6 53.34)
+			(xy 223.52 50.8) (xy 223.52 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2716,7 +2716,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 48.26) (xy 154.94 50.8)
+			(xy 149.86 48.26) (xy 149.86 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2726,7 +2726,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 63.5) (xy 252.73 66.04)
+			(xy 247.65 63.5) (xy 247.65 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2756,7 +2756,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 63.5) (xy 228.6 66.04)
+			(xy 223.52 63.5) (xy 223.52 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2786,7 +2786,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 50.8) (xy 252.73 58.42)
+			(xy 247.65 50.8) (xy 247.65 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2806,7 +2806,7 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 68.58) (xy 275.59 71.12)
+			(xy 270.51 68.58) (xy 270.51 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2846,7 +2846,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 58.42) (xy 215.9 58.42)
+			(xy 208.28 58.42) (xy 210.82 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2886,7 +2886,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 58.42) (xy 180.34 58.42)
+			(xy 172.72 58.42) (xy 175.26 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2896,7 +2896,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 50.8) (xy 161.29 57.15)
+			(xy 156.21 50.8) (xy 156.21 57.15)
 		)
 		(stroke
 			(width 0)
@@ -2926,7 +2926,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 66.04) (xy 215.9 58.42)
+			(xy 210.82 66.04) (xy 210.82 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2936,7 +2936,7 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 52.07) (xy 275.59 50.8)
+			(xy 270.51 52.07) (xy 270.51 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2946,7 +2946,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 48.26) (xy 180.34 48.26)
+			(xy 149.86 48.26) (xy 175.26 48.26)
 		)
 		(stroke
 			(width 0)
@@ -2966,7 +2966,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 45.72) (xy 264.16 50.8)
+			(xy 259.08 45.72) (xy 259.08 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3006,7 +3006,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 46.99) (xy 252.73 50.8)
+			(xy 247.65 46.99) (xy 247.65 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3016,7 +3016,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 53.34) (xy 228.6 55.88)
+			(xy 223.52 53.34) (xy 223.52 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3026,7 +3026,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 53.34) (xy 180.34 53.34)
+			(xy 162.56 53.34) (xy 175.26 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3036,7 +3036,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 63.5) (xy 154.94 66.04)
+			(xy 149.86 63.5) (xy 149.86 66.04)
 		)
 		(stroke
 			(width 0)
@@ -3046,7 +3046,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 53.34) (xy 167.64 58.42)
+			(xy 162.56 53.34) (xy 162.56 58.42)
 		)
 		(stroke
 			(width 0)
@@ -3126,7 +3126,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 55.88) (xy 228.6 58.42)
+			(xy 223.52 55.88) (xy 223.52 58.42)
 		)
 		(stroke
 			(width 0)
@@ -3136,7 +3136,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 55.88) (xy 154.94 57.15)
+			(xy 149.86 55.88) (xy 149.86 57.15)
 		)
 		(stroke
 			(width 0)
@@ -3176,7 +3176,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 50.8) (xy 219.71 50.8)
+			(xy 208.28 50.8) (xy 214.63 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3196,7 +3196,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 57.15) (xy 154.94 57.15)
+			(xy 156.21 57.15) (xy 149.86 57.15)
 		)
 		(stroke
 			(width 0)
@@ -3206,7 +3206,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 55.88) (xy 228.6 55.88)
+			(xy 208.28 55.88) (xy 223.52 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3216,7 +3216,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 53.34) (xy 228.6 53.34)
+			(xy 208.28 53.34) (xy 223.52 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3226,7 +3226,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 57.15) (xy 154.94 58.42)
+			(xy 149.86 57.15) (xy 149.86 58.42)
 		)
 		(stroke
 			(width 0)
@@ -3246,7 +3246,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 50.8) (xy 264.16 58.42)
+			(xy 259.08 50.8) (xy 259.08 58.42)
 		)
 		(stroke
 			(width 0)
@@ -3266,7 +3266,7 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 59.69) (xy 275.59 63.5)
+			(xy 270.51 59.69) (xy 270.51 63.5)
 		)
 		(stroke
 			(width 0)
@@ -3286,7 +3286,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 63.5) (xy 196.85 66.04)
+			(xy 191.77 63.5) (xy 191.77 66.04)
 		)
 		(stroke
 			(width 0)
@@ -3296,7 +3296,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 48.26) (xy 154.94 41.91)
+			(xy 149.86 48.26) (xy 149.86 41.91)
 		)
 		(stroke
 			(width 0)
@@ -3306,7 +3306,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 50.8) (xy 161.29 50.8)
+			(xy 175.26 50.8) (xy 156.21 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3326,7 +3326,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 66.04) (xy 241.3 63.419)
+			(xy 236.22 66.04) (xy 236.22 63.419)
 		)
 		(stroke
 			(width 0)
@@ -3396,7 +3396,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 50.8) (xy 252.73 50.8)
+			(xy 259.08 50.8) (xy 247.65 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3406,7 +3406,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 66.04) (xy 177.8 58.42)
+			(xy 172.72 66.04) (xy 172.72 58.42)
 		)
 		(stroke
 			(width 0)
@@ -3456,7 +3456,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 55.88) (xy 180.34 55.88)
+			(xy 172.72 55.88) (xy 175.26 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3486,7 +3486,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 66.04) (xy 167.64 63.5)
+			(xy 162.56 66.04) (xy 162.56 63.5)
 		)
 		(stroke
 			(width 0)
@@ -3506,7 +3506,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 58.42) (xy 177.8 55.88)
+			(xy 172.72 58.42) (xy 172.72 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3526,7 +3526,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 50.8) (xy 227.33 50.8)
+			(xy 223.52 50.8) (xy 222.25 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3566,7 +3566,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 66.04) (xy 264.16 63.5)
+			(xy 259.08 66.04) (xy 259.08 63.5)
 		)
 		(stroke
 			(width 0)
@@ -3576,7 +3576,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 50.8) (xy 228.6 50.8)
+			(xy 236.22 50.8) (xy 223.52 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3586,7 +3586,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 58.339) (xy 241.3 50.8)
+			(xy 236.22 58.339) (xy 236.22 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3671,7 +3671,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 161.29 57.15 270)
+		(at 156.21 57.15 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3680,7 +3680,7 @@
 		)
 		(uuid "1bd39eaf-39e4-4604-8d98-3a15992e29f9")
 		(property "Net Class" "AN"
-			(at 162.306 58.928 0)
+			(at 157.226 58.928 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3691,7 +3691,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 64.77 16.51 0)
+			(at 59.69 16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3705,7 +3705,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 217.17 50.8 0)
+		(at 212.09 50.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3714,7 +3714,7 @@
 		)
 		(uuid "2073c439-769d-415e-820c-fe4e7ea48559")
 		(property "Net Class" "PWR_LV"
-			(at 215.646 46.228 0)
+			(at 210.566 46.228 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3725,7 +3725,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 220.98 24.13 0)
+			(at 215.9 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3739,7 +3739,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 172.72 53.34 180)
+		(at 167.64 53.34 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3748,7 +3748,7 @@
 		)
 		(uuid "3285708b-f0e5-41dc-83d6-b204c0e1aa80")
 		(property "Net Class" "PWR_LV"
-			(at 176.53 57.658 0)
+			(at 171.45 57.658 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3759,7 +3759,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 168.91 80.01 0)
+			(at 163.83 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3841,7 +3841,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 237.49 50.8 0)
+		(at 232.41 50.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3850,7 +3850,7 @@
 		)
 		(uuid "df97a138-672a-45c4-b23a-171b18d285ba")
 		(property "Net Class" "PWR_LV"
-			(at 235.966 46.228 0)
+			(at 230.886 46.228 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3861,7 +3861,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 241.3 24.13 0)
+			(at 236.22 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3883,7 +3883,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "01e86cc0-3c17-4a67-8cd5-5c73c6fadd2c")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR084"
 			(at 107.95 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -3943,7 +3943,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR086")
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -3961,7 +3961,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "091d522c-91a3-4ed2-b0e7-37884709cab0")
-		(property "Reference" "TP14"
+		(property "Reference" "TP11"
 			(at 167.64 128.778 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4066,7 +4066,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "TP14")
+					(reference "TP11")
 					(unit 1)
 				)
 			)
@@ -4083,7 +4083,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "094ab09d-2234-4d8d-8d79-a11ff0fb8f76")
-		(property "Reference" "R49"
+		(property "Reference" "R51"
 			(at 105.918 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4191,7 +4191,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "R49")
+					(reference "R51")
 					(unit 1)
 				)
 			)
@@ -4199,7 +4199,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 241.3 60.879 0)
+		(at 236.22 60.879 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -4210,8 +4210,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0bf4d94b-e961-4400-ba3f-e34e64387608")
-		(property "Reference" "C54"
-			(at 238.76 59.6153 0)
+		(property "Reference" "C55"
+			(at 233.68 59.6153 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4222,7 +4222,7 @@
 			)
 		)
 		(property "Value" "10u 10V"
-			(at 238.76 62.1553 0)
+			(at 233.68 62.1553 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4233,7 +4233,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 241.3 60.879 0)
+			(at 236.22 60.879 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4244,7 +4244,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 60.879 0)
+			(at 236.22 60.879 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4255,7 +4255,7 @@
 			)
 		)
 		(property "Description" "CL05A106MP6NUN8"
-			(at 241.3 60.879 0)
+			(at 236.22 60.879 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4266,7 +4266,7 @@
 			)
 		)
 		(property "MPN" "GRT155R61A106ME13D"
-			(at 241.3 60.879 0)
+			(at 236.22 60.879 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4277,7 +4277,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata Electronics"
-			(at 241.3 60.879 0)
+			(at 236.22 60.879 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4288,7 +4288,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 241.3 60.879 0)
+			(at 236.22 60.879 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4299,7 +4299,7 @@
 			)
 		)
 		(property "KLC_S5.1" ""
-			(at 241.3 60.879 0)
+			(at 236.22 60.879 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4318,7 +4318,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "C54")
+					(reference "C55")
 					(unit 1)
 				)
 			)
@@ -4326,7 +4326,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 167.64 60.96 0)
+		(at 162.56 60.96 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4335,8 +4335,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "122ce5ad-8abf-44a1-aeb5-b9e02c179550")
-		(property "Reference" "C48"
-			(at 170.18 59.6963 0)
+		(property "Reference" "C52"
+			(at 165.1 59.6963 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4347,7 +4347,7 @@
 			)
 		)
 		(property "Value" "470n 10V"
-			(at 170.18 62.2363 0)
+			(at 165.1 62.2363 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4358,7 +4358,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 167.64 60.96 0)
+			(at 162.56 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4369,7 +4369,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 60.96 0)
+			(at 162.56 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4380,7 +4380,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 167.64 60.96 0)
+			(at 162.56 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4391,7 +4391,7 @@
 			)
 		)
 		(property "MPN" "GCM155C71A474KE36D"
-			(at 167.64 60.96 0)
+			(at 162.56 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4402,7 +4402,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata Electronics"
-			(at 167.64 60.96 0)
+			(at 162.56 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4413,7 +4413,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 167.64 60.96 0)
+			(at 162.56 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4424,7 +4424,7 @@
 			)
 		)
 		(property "KLC_S5.1" ""
-			(at 167.64 60.96 0)
+			(at 162.56 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4443,7 +4443,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "C48")
+					(reference "C52")
 					(unit 1)
 				)
 			)
@@ -4712,7 +4712,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "18f3fe13-957a-4a88-9ac7-31e6f2b1d77e")
-		(property "Reference" "D21"
+		(property "Reference" "D19"
 			(at 110.49 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4818,7 +4818,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "D21")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -4826,7 +4826,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 167.64 66.04 0)
+		(at 162.56 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4835,8 +4835,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "20f15cea-a4f6-4925-9e3b-627e1219c29a")
-		(property "Reference" "#PWR083"
-			(at 167.64 72.39 0)
+		(property "Reference" "#PWR092"
+			(at 162.56 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4847,7 +4847,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 167.64 70.612 0)
+			(at 162.56 70.612 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4857,7 +4857,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 167.64 66.04 0)
+			(at 162.56 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4868,7 +4868,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 66.04 0)
+			(at 162.56 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4879,7 +4879,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 167.64 66.04 0)
+			(at 162.56 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4895,7 +4895,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR083")
+					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -4912,7 +4912,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "25435db6-1128-4710-a867-a8204881b3b5")
-		(property "Reference" "R52"
+		(property "Reference" "R54"
 			(at 187.198 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5020,7 +5020,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "R52")
+					(reference "R54")
 					(unit 1)
 				)
 			)
@@ -5039,7 +5039,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "287e098e-6430-4a2e-8cb1-8b52d60d0c0d")
-		(property "Reference" "C55"
+		(property "Reference" "C53"
 			(at 173.99 137.1663 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5147,7 +5147,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "C55")
+					(reference "C53")
 					(unit 1)
 				)
 			)
@@ -5155,7 +5155,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 264.16 66.04 0)
+		(at 259.08 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5164,8 +5164,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2a7c28a4-8ae6-4dc7-9983-0d218b5fb0c4")
-		(property "Reference" "#PWR0100"
-			(at 264.16 72.39 0)
+		(property "Reference" "#PWR0103"
+			(at 259.08 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5176,7 +5176,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 264.16 70.612 0)
+			(at 259.08 70.612 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5186,7 +5186,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 264.16 66.04 0)
+			(at 259.08 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5197,7 +5197,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 264.16 66.04 0)
+			(at 259.08 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5208,7 +5208,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 264.16 66.04 0)
+			(at 259.08 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5224,7 +5224,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR0100")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -5241,7 +5241,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2d5f84a3-c00d-4341-bc54-5caae2650228")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR077"
 			(at 34.29 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -5301,7 +5301,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR075")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -5318,7 +5318,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2e49f226-24d4-41b2-8566-1ae6d79c74d4")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR086"
 			(at 120.65 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -5378,7 +5378,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR087")
+					(reference "#PWR086")
 					(unit 1)
 				)
 			)
@@ -5386,7 +5386,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 275.59 71.12 0)
+		(at 270.51 71.12 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5395,8 +5395,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2ff5d3c8-b105-4eba-a1bd-17985b76a0f1")
-		(property "Reference" "#PWR0101"
-			(at 275.59 77.47 0)
+		(property "Reference" "#PWR0104"
+			(at 270.51 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5407,7 +5407,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 275.59 75.692 0)
+			(at 270.51 75.692 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5417,7 +5417,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 275.59 71.12 0)
+			(at 270.51 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5428,7 +5428,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 275.59 71.12 0)
+			(at 270.51 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5439,7 +5439,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 275.59 71.12 0)
+			(at 270.51 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5455,7 +5455,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR0101")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -5463,7 +5463,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 154.94 41.91 0)
+		(at 149.86 41.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5473,8 +5473,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31612bf7-b28b-4805-8cfc-617f5f487a38")
-		(property "Reference" "#PWR081"
-			(at 154.94 45.72 0)
+		(property "Reference" "#PWR089"
+			(at 149.86 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5485,7 +5485,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 154.94 36.83 0)
+			(at 149.86 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5495,7 +5495,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 41.91 0)
+			(at 149.86 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5506,7 +5506,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 41.91 0)
+			(at 149.86 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5517,7 +5517,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 154.94 41.91 0)
+			(at 149.86 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5533,7 +5533,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR081")
+					(reference "#PWR089")
 					(unit 1)
 				)
 			)
@@ -5550,7 +5550,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "34ea1e02-18b5-455f-a3c6-278ee5e68f36")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR082"
 			(at 104.14 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -5610,7 +5610,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR080")
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
@@ -5618,7 +5618,7 @@
 	)
 	(symbol
 		(lib_id "Device:L_Iron")
-		(at 223.52 50.8 90)
+		(at 218.44 50.8 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5629,7 +5629,7 @@
 		(fields_autoplaced yes)
 		(uuid "35fb9a1d-5185-4258-ab42-712b3ae41d6d")
 		(property "Reference" "L1"
-			(at 223.52 44.45 90)
+			(at 218.44 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5639,7 +5639,7 @@
 			)
 		)
 		(property "Value" "68u"
-			(at 223.52 46.99 90)
+			(at 218.44 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5649,7 +5649,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_Bourns_SRN6045TA"
-			(at 223.52 50.8 0)
+			(at 218.44 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5660,7 +5660,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 50.8 0)
+			(at 218.44 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5671,7 +5671,7 @@
 			)
 		)
 		(property "Description" "SRN5040TA-680K"
-			(at 223.52 50.8 0)
+			(at 218.44 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5682,7 +5682,7 @@
 			)
 		)
 		(property "MPN" "SRN5040TA-680K"
-			(at 223.52 50.8 90)
+			(at 218.44 50.8 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5693,7 +5693,7 @@
 			)
 		)
 		(property "Manufacturer" "Bourns"
-			(at 223.52 50.8 90)
+			(at 218.44 50.8 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5704,7 +5704,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 223.52 50.8 90)
+			(at 218.44 50.8 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5715,7 +5715,7 @@
 			)
 		)
 		(property "KLC_S5.1" ""
-			(at 223.52 50.8 90)
+			(at 218.44 50.8 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5751,7 +5751,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "378db230-156b-49f2-b40d-e24f4f586eba")
-		(property "Reference" "R48"
+		(property "Reference" "R50"
 			(at 105.918 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5859,7 +5859,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "R48")
+					(reference "R50")
 					(unit 1)
 				)
 			)
@@ -5867,7 +5867,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 252.73 66.04 0)
+		(at 247.65 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5876,8 +5876,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3871f3f2-2d9d-4e2d-b60a-ac92e94aeb3d")
-		(property "Reference" "#PWR097"
-			(at 252.73 72.39 0)
+		(property "Reference" "#PWR0101"
+			(at 247.65 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5888,7 +5888,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 252.73 70.612 0)
+			(at 247.65 70.612 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5898,7 +5898,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 252.73 66.04 0)
+			(at 247.65 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5909,7 +5909,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 252.73 66.04 0)
+			(at 247.65 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5920,7 +5920,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 252.73 66.04 0)
+			(at 247.65 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5936,7 +5936,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR097")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -5955,7 +5955,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e63a0ec-8311-42ba-be55-3f97a473bf3f")
-		(property "Reference" "C49"
+		(property "Reference" "C48"
 			(at 105.41 135.8963 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6063,7 +6063,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "C49")
+					(reference "C48")
 					(unit 1)
 				)
 			)
@@ -6071,7 +6071,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 275.59 55.88 90)
+		(at 270.51 55.88 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6081,8 +6081,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46178601-5b50-4e7a-8274-07212f68605f")
-		(property "Reference" "D12"
-			(at 279.4 56.1975 90)
+		(property "Reference" "D21"
+			(at 274.32 56.1975 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6093,7 +6093,7 @@
 			)
 		)
 		(property "Value" "GREEN"
-			(at 279.4 58.7375 90)
+			(at 274.32 58.7375 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6104,7 +6104,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
-			(at 275.59 55.88 0)
+			(at 270.51 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6115,7 +6115,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 275.59 55.88 0)
+			(at 270.51 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6126,7 +6126,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 275.59 55.88 0)
+			(at 270.51 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6137,7 +6137,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 275.59 55.88 0)
+			(at 270.51 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6148,7 +6148,7 @@
 			)
 		)
 		(property "MPN" "LTST-C190KGKT"
-			(at 275.59 55.88 90)
+			(at 270.51 55.88 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6159,7 +6159,7 @@
 			)
 		)
 		(property "Manufacturer" "Lite-On Inc."
-			(at 275.59 55.88 90)
+			(at 270.51 55.88 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6170,7 +6170,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 275.59 55.88 90)
+			(at 270.51 55.88 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6181,7 +6181,7 @@
 			)
 		)
 		(property "KLC_S5.1" ""
-			(at 275.59 55.88 90)
+			(at 270.51 55.88 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6200,7 +6200,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "D12")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -6218,7 +6218,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "491e7918-f41a-491c-b6db-74fd743b41a1")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR083"
 			(at 107.95 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -6278,7 +6278,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR085")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -6297,7 +6297,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ff57590-8f55-4e5d-a6bd-f29dad59f328")
-		(property "Reference" "C53"
+		(property "Reference" "C51"
 			(at 162.56 137.1663 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6405,7 +6405,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "C53")
+					(reference "C51")
 					(unit 1)
 				)
 			)
@@ -6539,7 +6539,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 154.94 53.34 0)
+		(at 149.86 53.34 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6548,8 +6548,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "51e0c225-98da-41df-b442-564ccc81db83")
-		(property "Reference" "R50"
-			(at 156.718 52.07 0)
+		(property "Reference" "R52"
+			(at 151.638 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6560,7 +6560,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 156.464 54.61 0)
+			(at 151.384 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6571,7 +6571,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 154.94 53.34 0)
+			(at 149.86 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6582,7 +6582,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 53.34 0)
+			(at 149.86 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6593,7 +6593,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 154.94 53.34 0)
+			(at 149.86 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6604,7 +6604,7 @@
 			)
 		)
 		(property "MPN" "CRCW0402100KFKED"
-			(at 154.94 53.34 0)
+			(at 149.86 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6615,7 +6615,7 @@
 			)
 		)
 		(property "Manufacturer" "Vishay Dale"
-			(at 154.94 53.34 0)
+			(at 149.86 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6626,7 +6626,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 154.94 53.34 0)
+			(at 149.86 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6637,7 +6637,7 @@
 			)
 		)
 		(property "KLC_S5.1" ""
-			(at 154.94 53.34 0)
+			(at 149.86 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6656,7 +6656,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "R50")
+					(reference "R52")
 					(unit 1)
 				)
 			)
@@ -6674,7 +6674,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ada7294-9100-4375-950f-7a20035f7350")
-		(property "Reference" "D11"
+		(property "Reference" "D20"
 			(at 189.23 138.7475 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6793,7 +6793,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "D11")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -6811,7 +6811,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65c29f00-c9e8-4fad-acaf-fb5e350892f6")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR081"
 			(at 60.96 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -6871,7 +6871,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR079")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -6879,7 +6879,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 154.94 60.96 0)
+		(at 149.86 60.96 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6888,8 +6888,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7522c1d0-be47-4ba0-92bd-d711a2fb72c3")
-		(property "Reference" "R51"
-			(at 156.718 59.69 0)
+		(property "Reference" "R53"
+			(at 151.638 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6900,7 +6900,7 @@
 			)
 		)
 		(property "Value" "15k"
-			(at 156.464 62.23 0)
+			(at 151.384 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6911,7 +6911,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 154.94 60.96 0)
+			(at 149.86 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6922,7 +6922,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 60.96 0)
+			(at 149.86 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6933,7 +6933,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 154.94 60.96 0)
+			(at 149.86 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6944,7 +6944,7 @@
 			)
 		)
 		(property "MPN" "CRCW040215K0FKED"
-			(at 154.94 60.96 0)
+			(at 149.86 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6955,7 +6955,7 @@
 			)
 		)
 		(property "Manufacturer" "Vishay Dale"
-			(at 154.94 60.96 0)
+			(at 149.86 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6966,7 +6966,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 154.94 60.96 0)
+			(at 149.86 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6977,7 +6977,7 @@
 			)
 		)
 		(property "KLC_S5.1" ""
-			(at 154.94 60.96 0)
+			(at 149.86 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6996,7 +6996,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "R51")
+					(reference "R53")
 					(unit 1)
 				)
 			)
@@ -7015,7 +7015,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "769a0abc-a7a1-45b5-b69f-74f87d1e4ce7")
-		(property "Reference" "C50"
+		(property "Reference" "C49"
 			(at 118.11 135.8963 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7123,7 +7123,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "C50")
+					(reference "C49")
 					(unit 1)
 				)
 			)
@@ -7131,7 +7131,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 264.16 60.96 0)
+		(at 259.08 60.96 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -7143,7 +7143,7 @@
 		(fields_autoplaced yes)
 		(uuid "7da42942-0f62-4491-9280-3a260544073d")
 		(property "Reference" "C57"
-			(at 261.62 59.6963 0)
+			(at 256.54 59.6963 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7154,7 +7154,7 @@
 			)
 		)
 		(property "Value" "10u 10V"
-			(at 261.62 62.2363 0)
+			(at 256.54 62.2363 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7165,7 +7165,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 264.16 60.96 0)
+			(at 259.08 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7176,7 +7176,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 264.16 60.96 0)
+			(at 259.08 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7187,7 +7187,7 @@
 			)
 		)
 		(property "Description" "CL05A106MP6NUN8"
-			(at 264.16 60.96 0)
+			(at 259.08 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7198,7 +7198,7 @@
 			)
 		)
 		(property "MPN" "GRT155R61A106ME13D"
-			(at 264.16 60.96 0)
+			(at 259.08 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7209,7 +7209,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata Electronics"
-			(at 264.16 60.96 0)
+			(at 259.08 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7220,7 +7220,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 264.16 60.96 0)
+			(at 259.08 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7231,7 +7231,7 @@
 			)
 		)
 		(property "KLC_S5.1" ""
-			(at 264.16 60.96 0)
+			(at 259.08 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7267,7 +7267,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7fc25c7d-e81c-4bed-b656-a5986402a4ac")
-		(property "Reference" "#PWR098"
+		(property "Reference" "#PWR096"
 			(at 185.42 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -7327,7 +7327,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR098")
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -7346,7 +7346,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b5f24f3-e740-49c7-9b90-1ea300e56e48")
-		(property "Reference" "C51"
+		(property "Reference" "C50"
 			(at 151.13 137.1663 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7454,7 +7454,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "C51")
+					(reference "C50")
 					(unit 1)
 				)
 			)
@@ -7472,7 +7472,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f04d533-7d2a-43f6-9bb5-fba2b11bc2a8")
-		(property "Reference" "U13"
+		(property "Reference" "U12"
 			(at 134.62 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7581,7 +7581,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "U13")
+					(reference "U12")
 					(unit 1)
 				)
 			)
@@ -7589,7 +7589,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 252.73 46.99 0)
+		(at 247.65 46.99 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7599,8 +7599,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f1927a8-938e-41b6-b09f-a41020bf349b")
-		(property "Reference" "TP15"
-			(at 255.27 42.418 0)
+		(property "Reference" "TP12"
+			(at 250.19 42.418 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7611,7 +7611,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 255.27 44.958 0)
+			(at 250.19 44.958 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7622,7 +7622,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 257.81 46.99 0)
+			(at 252.73 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7633,7 +7633,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 257.81 46.99 0)
+			(at 252.73 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7644,7 +7644,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 252.73 46.99 0)
+			(at 247.65 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7655,7 +7655,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 252.73 46.99 0)
+			(at 247.65 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7666,7 +7666,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 252.73 46.99 0)
+			(at 247.65 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7677,7 +7677,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 252.73 46.99 0)
+			(at 247.65 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7688,7 +7688,7 @@
 			)
 		)
 		(property "KLC_S5.1" ""
-			(at 252.73 46.99 0)
+			(at 247.65 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7704,7 +7704,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "TP15")
+					(reference "TP12")
 					(unit 1)
 				)
 			)
@@ -7721,7 +7721,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9636612c-2747-4c83-b7db-547c67fe75ec")
-		(property "Reference" "#PWR096"
+		(property "Reference" "#PWR094"
 			(at 176.53 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -7781,7 +7781,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR096")
+					(reference "#PWR094")
 					(unit 1)
 				)
 			)
@@ -7798,7 +7798,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9c91e724-2991-4bde-9252-711014982f14")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR087"
 			(at 134.62 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -7858,7 +7858,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR089")
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -7866,7 +7866,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 275.59 66.04 0)
+		(at 270.51 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7875,8 +7875,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9c9f5a3f-ed52-412f-8d1f-41dfdb8fcb10")
-		(property "Reference" "R53"
-			(at 277.368 64.77 0)
+		(property "Reference" "R55"
+			(at 272.288 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7887,7 +7887,7 @@
 			)
 		)
 		(property "Value" "360R"
-			(at 277.368 67.3101 0)
+			(at 272.288 67.3101 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7898,7 +7898,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 275.59 66.04 0)
+			(at 270.51 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7909,7 +7909,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 275.59 66.04 0)
+			(at 270.51 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7920,7 +7920,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 275.59 66.04 0)
+			(at 270.51 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7931,7 +7931,7 @@
 			)
 		)
 		(property "MPN" "CRCW0402360RFKED"
-			(at 275.59 66.04 0)
+			(at 270.51 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7942,7 +7942,7 @@
 			)
 		)
 		(property "Manufacturer" "Vishay Dale"
-			(at 275.59 66.04 0)
+			(at 270.51 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7953,7 +7953,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 275.59 66.04 0)
+			(at 270.51 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7964,7 +7964,7 @@
 			)
 		)
 		(property "KLC_S5.1" ""
-			(at 275.59 66.04 0)
+			(at 270.51 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7983,7 +7983,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "R53")
+					(reference "R55")
 					(unit 1)
 				)
 			)
@@ -8001,7 +8001,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d24a736-b4f8-4b8b-a0d5-8ebe90934bf5")
-		(property "Reference" "J10"
+		(property "Reference" "J13"
 			(at 23.495 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8107,7 +8107,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "J10")
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -8115,7 +8115,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 228.6 60.96 0)
+		(at 223.52 60.96 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -8126,8 +8126,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a704c06d-5ee2-4806-b954-320e3d2b0873")
-		(property "Reference" "C52"
-			(at 226.06 59.6963 0)
+		(property "Reference" "C54"
+			(at 220.98 59.6963 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8138,7 +8138,7 @@
 			)
 		)
 		(property "Value" "100n 10V"
-			(at 226.06 62.2363 0)
+			(at 220.98 62.2363 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8149,7 +8149,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 228.6 60.96 0)
+			(at 223.52 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8160,7 +8160,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 60.96 0)
+			(at 223.52 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8171,7 +8171,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 228.6 60.96 0)
+			(at 223.52 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8182,7 +8182,7 @@
 			)
 		)
 		(property "MPN" "GRM155R71A104KA01D"
-			(at 228.6 60.96 0)
+			(at 223.52 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8193,7 +8193,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata Electronics"
-			(at 228.6 60.96 0)
+			(at 223.52 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8204,7 +8204,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 228.6 60.96 0)
+			(at 223.52 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8215,7 +8215,7 @@
 			)
 		)
 		(property "KLC_S5.1" ""
-			(at 228.6 60.96 0)
+			(at 223.52 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8234,7 +8234,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "C52")
+					(reference "C54")
 					(unit 1)
 				)
 			)
@@ -8251,7 +8251,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a9c4cec4-d76d-4085-a393-90daf5054d6b")
-		(property "Reference" "#PWR093"
+		(property "Reference" "#PWR091"
 			(at 165.1 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -8311,7 +8311,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR093")
+					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -8328,7 +8328,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aca5a99f-59cd-41b1-9f92-6496150c36bb")
-		(property "Reference" "#PWR095"
+		(property "Reference" "#PWR093"
 			(at 176.53 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -8388,7 +8388,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR095")
+					(reference "#PWR093")
 					(unit 1)
 				)
 			)
@@ -8405,7 +8405,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b0f7c246-d292-4755-b4e7-9352f85f4909")
-		(property "Reference" "#PWR0106"
+		(property "Reference" "#PWR085"
 			(at 116.84 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -8465,7 +8465,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR0106")
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -8473,7 +8473,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 264.16 45.72 0)
+		(at 259.08 45.72 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -8483,8 +8483,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b3f9d783-4ecc-4b51-8a79-45280efa6e45")
-		(property "Reference" "#PWR099"
-			(at 264.16 49.53 0)
+		(property "Reference" "#PWR0102"
+			(at 259.08 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8495,7 +8495,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 265.176 41.91 0)
+			(at 260.096 41.91 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8505,7 +8505,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 264.16 45.72 0)
+			(at 259.08 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8516,7 +8516,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 264.16 45.72 0)
+			(at 259.08 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8527,7 +8527,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 264.16 45.72 0)
+			(at 259.08 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8543,7 +8543,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR099")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -8551,7 +8551,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 154.94 66.04 0)
+		(at 149.86 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8560,8 +8560,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b4b98aa6-4300-4cd8-bee8-3cd22a01094d")
-		(property "Reference" "#PWR082"
-			(at 154.94 72.39 0)
+		(property "Reference" "#PWR090"
+			(at 149.86 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8572,7 +8572,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 154.94 70.612 0)
+			(at 149.86 70.612 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8582,7 +8582,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 66.04 0)
+			(at 149.86 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8593,7 +8593,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 66.04 0)
+			(at 149.86 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8604,7 +8604,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 154.94 66.04 0)
+			(at 149.86 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8620,7 +8620,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR082")
+					(reference "#PWR090")
 					(unit 1)
 				)
 			)
@@ -8628,7 +8628,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 252.73 60.96 0)
+		(at 247.65 60.96 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -8640,7 +8640,7 @@
 		(fields_autoplaced yes)
 		(uuid "b68caf34-872a-43a8-ab6e-ac7f03fc7020")
 		(property "Reference" "C56"
-			(at 250.19 59.6963 0)
+			(at 245.11 59.6963 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8651,7 +8651,7 @@
 			)
 		)
 		(property "Value" "10u 10V"
-			(at 250.19 62.2363 0)
+			(at 245.11 62.2363 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8662,7 +8662,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 252.73 60.96 0)
+			(at 247.65 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8673,7 +8673,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 252.73 60.96 0)
+			(at 247.65 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8684,7 +8684,7 @@
 			)
 		)
 		(property "Description" "CL05A106MP6NUN8"
-			(at 252.73 60.96 0)
+			(at 247.65 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8695,7 +8695,7 @@
 			)
 		)
 		(property "MPN" "GRT155R61A106ME13D"
-			(at 252.73 60.96 0)
+			(at 247.65 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8706,7 +8706,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata Electronics"
-			(at 252.73 60.96 0)
+			(at 247.65 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8717,7 +8717,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 252.73 60.96 0)
+			(at 247.65 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8728,7 +8728,7 @@
 			)
 		)
 		(property "KLC_S5.1" ""
-			(at 252.73 60.96 0)
+			(at 247.65 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8764,7 +8764,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "be586a41-943e-4190-a29b-9c4784b188a8")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR088"
 			(at 153.67 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -8824,7 +8824,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR091")
+					(reference "#PWR088")
 					(unit 1)
 				)
 			)
@@ -8841,7 +8841,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c217e791-9861-4de3-9a95-5fad7c34f46e")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR078"
 			(at 46.99 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -8901,7 +8901,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR076")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -8918,7 +8918,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c4d887f5-f5f0-483d-bb5d-8f30e74556b3")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR080"
 			(at 54.61 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -8978,7 +8978,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR078")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -9112,7 +9112,7 @@
 	)
 	(symbol
 		(lib_id "00_mySymbols:L7983")
-		(at 196.85 54.61 0)
+		(at 191.77 54.61 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9122,8 +9122,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d542b1e9-e5c4-4ebe-9a2b-be2b523c67c4")
-		(property "Reference" "U12"
-			(at 196.85 40.64 0)
+		(property "Reference" "U13"
+			(at 191.77 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9133,7 +9133,7 @@
 			)
 		)
 		(property "Value" "L7983"
-			(at 196.85 43.18 0)
+			(at 191.77 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9143,7 +9143,7 @@
 			)
 		)
 		(property "Footprint" "00_myFootprints:DFN-10-1EP_3mmX3mm_P0.5mm_ExposedPad_0.62x0.98mm"
-			(at 196.85 54.61 0)
+			(at 191.77 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9154,7 +9154,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/l7983.pdf"
-			(at 196.85 54.61 0)
+			(at 191.77 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9165,7 +9165,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 196.85 54.61 0)
+			(at 191.77 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9176,7 +9176,7 @@
 			)
 		)
 		(property "MPN" " L7983PU50R"
-			(at 196.85 54.61 0)
+			(at 191.77 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9187,7 +9187,7 @@
 			)
 		)
 		(property "Manufacturer" "STMicroelectronics"
-			(at 196.85 54.61 0)
+			(at 191.77 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9198,7 +9198,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 196.85 54.61 0)
+			(at 191.77 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9209,7 +9209,7 @@
 			)
 		)
 		(property "KLC_S5.1" ""
-			(at 196.85 54.61 0)
+			(at 191.77 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9255,7 +9255,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "U12")
+					(reference "U13")
 					(unit 1)
 				)
 			)
@@ -9263,7 +9263,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 196.85 66.04 0)
+		(at 191.77 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9272,8 +9272,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d6e7e40e-48ac-4105-827f-e47862f867f8")
-		(property "Reference" "#PWR088"
-			(at 196.85 72.39 0)
+		(property "Reference" "#PWR097"
+			(at 191.77 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9284,7 +9284,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 196.85 70.612 0)
+			(at 191.77 70.612 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9294,7 +9294,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 196.85 66.04 0)
+			(at 191.77 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9305,7 +9305,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 66.04 0)
+			(at 191.77 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9316,7 +9316,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 196.85 66.04 0)
+			(at 191.77 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9332,7 +9332,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR088")
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)
@@ -9464,7 +9464,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 241.3 66.04 0)
+		(at 236.22 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9473,8 +9473,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e0cd5a94-e157-4572-a718-a9ecb202ed5b")
-		(property "Reference" "#PWR094"
-			(at 241.3 72.39 0)
+		(property "Reference" "#PWR0100"
+			(at 236.22 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9485,7 +9485,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 241.3 70.612 0)
+			(at 236.22 70.612 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9495,7 +9495,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 241.3 66.04 0)
+			(at 236.22 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9506,7 +9506,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 66.04 0)
+			(at 236.22 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9517,7 +9517,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 241.3 66.04 0)
+			(at 236.22 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9533,7 +9533,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR094")
+					(reference "#PWR0100")
 					(unit 1)
 				)
 			)
@@ -9550,7 +9550,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec4bfe1c-a66b-4833-8e7f-28820ba47fe7")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR079"
 			(at 46.99 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -9610,7 +9610,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR077")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -9618,7 +9618,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 177.8 66.04 0)
+		(at 172.72 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9627,8 +9627,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "eea340eb-4f3b-4eef-a204-e2bae19cbacd")
-		(property "Reference" "#PWR084"
-			(at 177.8 72.39 0)
+		(property "Reference" "#PWR095"
+			(at 172.72 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9639,7 +9639,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 177.8 70.612 0)
+			(at 172.72 70.612 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9649,7 +9649,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 177.8 66.04 0)
+			(at 172.72 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9660,7 +9660,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 177.8 66.04 0)
+			(at 172.72 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9671,7 +9671,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 177.8 66.04 0)
+			(at 172.72 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9687,7 +9687,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR084")
+					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -9695,7 +9695,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 228.6 66.04 0)
+		(at 223.52 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9704,8 +9704,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "efdab9b3-2a8a-4a43-8511-6602a3802ab5")
-		(property "Reference" "#PWR092"
-			(at 228.6 72.39 0)
+		(property "Reference" "#PWR099"
+			(at 223.52 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9716,7 +9716,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 228.6 70.612 0)
+			(at 223.52 70.612 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9726,7 +9726,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 228.6 66.04 0)
+			(at 223.52 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9737,7 +9737,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 66.04 0)
+			(at 223.52 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9748,7 +9748,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 228.6 66.04 0)
+			(at 223.52 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9764,7 +9764,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR092")
+					(reference "#PWR099")
 					(unit 1)
 				)
 			)
@@ -9772,7 +9772,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 215.9 66.04 0)
+		(at 210.82 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9781,8 +9781,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f1da6c18-bbb2-4489-9096-71d00a797fc9")
-		(property "Reference" "#PWR090"
-			(at 215.9 72.39 0)
+		(property "Reference" "#PWR098"
+			(at 210.82 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9793,7 +9793,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 215.9 70.612 0)
+			(at 210.82 70.612 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9803,7 +9803,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 215.9 66.04 0)
+			(at 210.82 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9814,7 +9814,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 66.04 0)
+			(at 210.82 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9825,7 +9825,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 215.9 66.04 0)
+			(at 210.82 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9841,7 +9841,7 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/f66afc4b-bee6-4362-a8ed-314287fa7126"
-					(reference "#PWR090")
+					(reference "#PWR098")
 					(unit 1)
 				)
 			)

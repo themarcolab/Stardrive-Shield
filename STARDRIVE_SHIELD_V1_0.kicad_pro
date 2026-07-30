@@ -897,7 +897,7 @@
         "DIG"
       ],
       "/Inverter/SCREF": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/TEMP1": [
         "AN"
@@ -968,7 +968,13 @@
       "Net-(U12-VCC)": [
         "PWR_LV"
       ],
+      "Net-(U13-EN{slash}UVLO)": [
+        "AN"
+      ],
       "Net-(U13-LX)": [
+        "PWR_LV"
+      ],
+      "Net-(U13-VCC)": [
         "PWR_LV"
       ],
       "PGND": [
@@ -1231,7 +1237,7 @@
         "uuid": "efb4a1d9-7d03-4f5f-a7c7-22dd63859faa"
       }
     ],
-    "used_designators": "BRD1,J6",
+    "used_designators": "D1-21,#PWR1-105,BRD1,R1-55,J1-13,C1-58,FID1-3,JP1-4,L1,NT1,Q1-3,RV1,SW1,TP1-12,U1-13",
     "variants": []
   },
   "sheets": [
