@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "STARDRIVE SHIELD")
-		(date "2026-07-16")
+		(date "2026-08-01")
 		(rev "1.0")
 		(company "Marco's LAB")
 		(comment 1 "Marco Mascolini")
@@ -3370,7 +3370,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0aaeacb1-dc18-4722-9ea5-7a56583a7cb3")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR058"
 			(at 207.01 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -3430,15 +3430,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "#PWR063")
+					(reference "#PWR067")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "#PWR072")
+					(reference "#PWR076")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "#PWR054")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -3455,7 +3455,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0b1b2fb3-bb7d-4639-97f9-b0d10d7379b4")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR061"
 			(at 223.52 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -3515,15 +3515,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "#PWR066")
+					(reference "#PWR070")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "#PWR075")
+					(reference "#PWR079")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "#PWR057")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -4069,7 +4069,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "292cc308-f7f4-42eb-b7e0-5e4f9133436b")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR057"
 			(at 177.8 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -4129,15 +4129,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "#PWR062")
+					(reference "#PWR066")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "#PWR071")
+					(reference "#PWR075")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "#PWR053")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -4155,7 +4155,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2de1dd35-5d66-4828-a874-543014eba420")
-		(property "Reference" "C20"
+		(property "Reference" "C21"
 			(at 180.34 60.9663 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4263,15 +4263,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "C29")
+					(reference "C30")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "C38")
+					(reference "C39")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "C20")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -4553,7 +4553,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3bd456e4-337f-401f-ade0-d6c5ec1ca80e")
-		(property "Reference" "C18"
+		(property "Reference" "C19"
 			(at 156.21 60.9663 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4661,15 +4661,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "C27")
+					(reference "C28")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "C36")
+					(reference "C37")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "C18")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -4687,7 +4687,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40859a97-338d-4fb7-8ad8-38672c6d363b")
-		(property "Reference" "C21"
+		(property "Reference" "C22"
 			(at 191.77 60.9663 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4795,15 +4795,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "C30")
+					(reference "C31")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "C39")
+					(reference "C40")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "C21")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -4821,7 +4821,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46f7f2e5-e4e6-4402-a218-6429754b1e73")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR055"
 			(at 146.05 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -4881,15 +4881,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "#PWR060")
+					(reference "#PWR064")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "#PWR069")
+					(reference "#PWR073")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "#PWR051")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -5038,7 +5038,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "567cd5c5-5304-44fe-bd52-cb597ece3a6a")
-		(property "Reference" "C23"
+		(property "Reference" "C24"
 			(at 203.2 60.9663 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5146,15 +5146,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "C32")
+					(reference "C33")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "C41")
+					(reference "C42")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "C23")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -5172,7 +5172,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5868517c-b834-479c-9ab8-c70c27ecd952")
-		(property "Reference" "J10"
+		(property "Reference" "J11"
 			(at 47.625 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5231,15 +5231,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "J11")
-					(unit 1)
-				)
-				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
 					(reference "J12")
 					(unit 1)
 				)
+				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
+					(reference "J13")
+					(unit 1)
+				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "J10")
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -5257,7 +5257,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "5bba45df-be0b-46e4-8ace-a344ac01234c")
-		(property "Reference" "C17"
+		(property "Reference" "C18"
 			(at 78.994 121.92 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5363,15 +5363,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "C26")
+					(reference "C27")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "C35")
+					(reference "C36")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "C17")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -5390,7 +5390,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62c04157-6a77-443c-b314-a9e8947aecbd")
-		(property "Reference" "C24"
+		(property "Reference" "C25"
 			(at 208.28 119.3863 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5498,15 +5498,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "C33")
+					(reference "C34")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "C42")
+					(reference "C43")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "C24")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -5525,7 +5525,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "648a9377-effb-45d3-a6d8-03bd9e2af0d3")
-		(property "Reference" "C22"
+		(property "Reference" "C23"
 			(at 196.85 119.3863 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5633,15 +5633,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "C31")
+					(reference "C32")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "C40")
+					(reference "C41")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "C22")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -6060,7 +6060,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "892f12a3-bfad-45bf-9d8e-0b2488fc2bb8")
-		(property "Reference" "C25"
+		(property "Reference" "C26"
 			(at 238.506 151.13 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6166,15 +6166,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "C34")
+					(reference "C35")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "C43")
+					(reference "C44")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "C25")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -6324,7 +6324,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "933a816b-c71a-47d2-93bf-e20f6e80fd82")
-		(property "Reference" "JP2"
+		(property "Reference" "JP3"
 			(at 238.506 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6430,15 +6430,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "JP3")
-					(unit 1)
-				)
-				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
 					(reference "JP4")
 					(unit 1)
 				)
+				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
+					(reference "JP5")
+					(unit 1)
+				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "JP2")
+					(reference "JP3")
 					(unit 1)
 				)
 			)
@@ -6455,7 +6455,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "94f94e0f-837d-42e8-875b-7e6ad64e7244")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR059"
 			(at 214.63 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -6515,15 +6515,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "#PWR064")
+					(reference "#PWR068")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "#PWR073")
+					(reference "#PWR077")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "#PWR055")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -6540,7 +6540,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9589533c-e56c-4a54-86ad-5d5ff7342fde")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR060"
 			(at 214.63 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -6600,15 +6600,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "#PWR065")
+					(reference "#PWR069")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "#PWR074")
+					(reference "#PWR078")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "#PWR056")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -6756,7 +6756,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9b91e776-1336-4787-8f5d-9abf3069f33f")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR056"
 			(at 146.05 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -6816,15 +6816,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "#PWR061")
+					(reference "#PWR065")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "#PWR070")
+					(reference "#PWR074")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "#PWR052")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -7376,7 +7376,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c3a7babb-46a9-4055-8469-e45f5683d0a1")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR054"
 			(at 85.09 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -7436,15 +7436,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "#PWR059")
+					(reference "#PWR063")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "#PWR068")
+					(reference "#PWR072")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "#PWR050")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -7462,7 +7462,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cee8528c-bfc9-4346-9e6f-894ac34e8a37")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR062"
 			(at 241.3 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -7522,15 +7522,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "#PWR067")
+					(reference "#PWR071")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "#PWR076")
+					(reference "#PWR080")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "#PWR058")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -7836,7 +7836,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc1f5f7e-ce38-463a-8c64-2dc796182de5")
-		(property "Reference" "C19"
+		(property "Reference" "C20"
 			(at 168.91 60.9663 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7944,15 +7944,15 @@
 		(instances
 			(project "STARDRIVE_SHIELD_V1_0"
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "C28")
+					(reference "C29")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "C37")
+					(reference "C38")
 					(unit 1)
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "C19")
+					(reference "C20")
 					(unit 1)
 				)
 			)

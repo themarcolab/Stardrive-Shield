@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.95,
-          "width": 0.975
+          "height": 0.98,
+          "width": 0.62
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -758,6 +758,12 @@
       "/Connectors/nFAULT": [
         "DIG_IN"
       ],
+      "/Interfaces/A": [
+        "DIG"
+      ],
+      "/Interfaces/B": [
+        "DIG"
+      ],
       "/Interfaces/BLUE": [
         "DIG"
       ],
@@ -806,11 +812,17 @@
       "/Interfaces/TX": [
         "CAN"
       ],
+      "/Interfaces/Z": [
+        "DIG"
+      ],
       "/Interfaces/nCS": [
         "SPI"
       ],
       "/Interfaces/{CAN}": [
         "CAN"
+      ],
+      "/Interfaces/{ENC}": [
+        "DIG"
       ],
       "/Interfaces/{HALL}": [
         "DIG"
@@ -825,7 +837,7 @@
         "SPI"
       ],
       "/Inverter/CP": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/CURR1": [
         "AN"
@@ -837,7 +849,7 @@
         "AN"
       ],
       "/Inverter/DT{slash}MODE": [
-        "AN_IN"
+        "AN"
       ],
       "/Inverter/Half-Bridge1/PH": [
         "PWR_HV"
@@ -990,7 +1002,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "outputs/gerbers/",
+      "plot": "outputs/PDFs/assembly/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -1148,6 +1160,11 @@
         "CAN+",
         "CAN-"
       ],
+      "ENC": [
+        "A",
+        "B",
+        "Z"
+      ],
       "HALL": [
         "HALL1",
         "HALL2",
@@ -1237,7 +1254,7 @@
         "uuid": "efb4a1d9-7d03-4f5f-a7c7-22dd63859faa"
       }
     ],
-    "used_designators": "D1-21,#PWR1-105,BRD1,R1-55,J1-13,C1-58,FID1-3,JP1-4,L1,NT1,Q1-3,RV1,SW1,TP1-12,U1-13",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
