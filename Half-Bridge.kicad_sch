@@ -539,7 +539,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Amplifier_Current:INA240A2D"
+		(symbol "Amplifier_Current:INA241A3xD"
 			(pin_names
 				(offset 0.127)
 			)
@@ -559,7 +559,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "INA240A2D"
+			(property "Value" "INA241A3xD"
 				(at 3.81 -2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -581,7 +581,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina240.pdf"
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ina241b.pdf"
 				(at 3.81 3.81 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -592,7 +592,7 @@
 					)
 				)
 			)
-			(property "Description" "High- and Low-Side, Bidirectional, Zero-Drift, Current-Sense Amplifier With Enhanced PWM Rejection, 50V/V, SOIC-8"
+			(property "Description" "High- and Low-Side, Bidirectional, Zero-Drift, Current-Sense Amplifier With Enhanced PWM Rejection, 50V/V, ±0.01% Gain Accuracy, ±10 μV Offset Voltage, SOIC-8"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -625,7 +625,7 @@
 					)
 				)
 			)
-			(symbol "INA240A2D_0_1"
+			(symbol "INA241A3xD_0_1"
 				(polyline
 					(pts
 						(xy 5.08 0) (xy -5.08 5.08) (xy -5.08 -5.08) (xy 5.08 0)
@@ -639,7 +639,7 @@
 					)
 				)
 			)
-			(symbol "INA240A2D_1_1"
+			(symbol "INA241A3xD_1_1"
 				(pin input line
 					(at -7.62 -2.54 0)
 					(length 2.54)
@@ -7234,6 +7234,112 @@
 		)
 	)
 	(symbol
+		(lib_id "Amplifier_Current:INA241A3xD")
+		(at 217.17 132.08 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b83d2154-5d2c-45cb-9f2b-d2e4ba959685")
+		(property "Reference" "U5"
+			(at 228.6 125.4311 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "INA241A3xD"
+			(at 228.6 127.9711 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 217.17 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ina241b.pdf"
+			(at 220.98 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "High- and Low-Side, Bidirectional, Zero-Drift, Current-Sense Amplifier With Enhanced PWM Rejection, 50V/V, ±0.01% Gain Accuracy, ±10 μV Offset Voltage, SOIC-8"
+			(at 217.17 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "6"
+			(uuid "fdca8c3c-05aa-4572-8d24-4b45aa24a912")
+		)
+		(pin "3"
+			(uuid "34edcf87-9adf-49d5-ae8e-3ad0b784b73b")
+		)
+		(pin "5"
+			(uuid "7eaebb4d-8eca-48f1-a4e3-eb9ac35cf7b3")
+		)
+		(pin "4"
+			(uuid "c0237bca-c719-4eb1-9a5d-0c78894ed90a")
+		)
+		(pin "1"
+			(uuid "a40a3b3d-1e05-4673-8fa3-e74a839c6584")
+		)
+		(pin "2"
+			(uuid "baacf126-f5a4-4a0e-bf73-784232fbf72f")
+		)
+		(pin "7"
+			(uuid "a45c2f1d-73a7-458f-b1ca-dc47109a86bc")
+		)
+		(pin "8"
+			(uuid "0508097f-5e93-458b-9e65-425b36a87455")
+		)
+		(instances
+			(project "STARDRIVE_SHIELD_V1_0"
+				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
+					(reference "U8")
+					(unit 1)
+				)
+				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
+					(reference "U11")
+					(unit 1)
+				)
+				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
+					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 128.27 72.39 90)
 		(unit 1)
@@ -7531,157 +7637,6 @@
 				)
 				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
 					(reference "#PWR062")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Amplifier_Current:INA240A2D")
-		(at 217.17 132.08 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dcea3718-448f-47d6-a58c-3944f03298fc")
-		(property "Reference" "U5"
-			(at 228.6 125.4311 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "INA240A2D"
-			(at 228.6 127.9711 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 217.17 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina240.pdf"
-			(at 220.98 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "High- and Low-Side, Bidirectional, Zero-Drift, Current-Sense Amplifier With Enhanced PWM Rejection, 50V/V, SOIC-8"
-			(at 217.17 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "INA240A2D"
-			(at 217.17 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Texas Instruments"
-			(at 217.17 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S3.3" ""
-			(at 217.17 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S5.1" ""
-			(at 217.17 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "4"
-			(uuid "4b52c050-50ea-4a46-83d6-c66dd6f495f1")
-		)
-		(pin "8"
-			(uuid "aa7d0519-0ed8-4a4f-9aac-b9dcacc97e7e")
-		)
-		(pin "6"
-			(uuid "27c6ea4b-7b2d-46a1-b81a-2510044d3fc0")
-		)
-		(pin "3"
-			(uuid "129fb76e-07e5-431c-ab62-eb01f3484335")
-		)
-		(pin "1"
-			(uuid "ae703594-071d-4700-b4ce-223c522f9c89")
-		)
-		(pin "5"
-			(uuid "6ef4e225-9337-4fc7-8b00-bef6466fbdfd")
-		)
-		(pin "2"
-			(uuid "5e66d365-5b4d-4b17-8ba9-2285a1be666f")
-		)
-		(pin "7"
-			(uuid "d70f564b-d981-4887-ba12-1b00ae7ed2a8")
-		)
-		(instances
-			(project "STARDRIVE_SHIELD_V1_0"
-				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/647543f0-0dfd-48f2-a8ad-63d354528483"
-					(reference "U8")
-					(unit 1)
-				)
-				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/969648ec-d528-42ac-989f-ad66810329bd"
-					(reference "U11")
-					(unit 1)
-				)
-				(path "/efb4a1d9-7d03-4f5f-a7c7-22dd63859faa/bfbfaa4c-aa36-4647-a92f-3ef828c8b466/a01aaa0f-249d-46cc-8d6b-40f5dd9fe1c6"
-					(reference "U5")
 					(unit 1)
 				)
 			)
